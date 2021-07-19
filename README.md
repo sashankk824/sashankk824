@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sashankk824
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning JavaScript and React
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
 
 <!---
