@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sashankk824
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning JavaScript and React
 - 📫 How to reach me: 
 
